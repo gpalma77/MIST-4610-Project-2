@@ -2,8 +2,8 @@
  
 ## Team name and members:
 <br> 
-Giovanna Palma - @gpalma77 https://github.com/gpalma77/MIST-4610-Project-2/blob/main/README.md
-<br> 
+Giovanna Palma -  @gpalma77
+(https://github.com/gpalma77/MIST-4610-Project-2/blob/main/README.md) 
 Katie Witcher - @katiewitcher
 <br> 
 Jack Macken- @jackmacken
