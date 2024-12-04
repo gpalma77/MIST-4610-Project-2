@@ -6,7 +6,7 @@ Giovanna Palma - [@gpalma77](https://github.com/gpalma77/MIST-4610-Project-2/blo
 )
 
 <br> 
-Katie Witcher - @katiewitcher
+Katie Witcher - [@katiewitcher](https://github.com/katiewitcher/MIST4610GroupProject2)
 <br> 
 Jack Macken- [@jackmacken](https://github.com/jackmacken/4610Project/edit/main/README.md#:~:text=/-,4610Project,-Type)
 <br> 
